@@ -1,0 +1,79 @@
+{
+  "banners": [
+    "https://images.unsplash.com/photo-1564121211835-e88c852648ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Al-Aqsa_Mosque_2020.jpg/1200px-Al-Aqsa_Mosque_2020.jpg",
+    "https://images.unsplash.com/photo-1542385151-efd900078baa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
+  ],
+  "latest": [
+    {
+      "title": "1. Kalma Tayyab",
+      "image": "https://i.pinimg.com/564x/a4/09/2f/a4092f635293297050017122718e00b8.jpg",
+      "arabic": "لَا إِلَهَ إِلَّا اللهُ مُحَمَّدٌ رَسُولُ اللهِ",
+      "translation": "Allah ke siwa koi Maabood nahi aur Muhammad (SAW) Allah ke Rasool hain.",
+      "audio_url": "https://server8.mp3quran.net/afs/001.mp3"
+    },
+    {
+      "title": "2. Ayatul Kursi",
+      "image": "https://i.pinimg.com/564x/83/7d/5a/837d5a5700720496152199557613589c.jpg",
+      "arabic": "اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ",
+      "translation": "Allah! There is no god but He - the Living, The Self-subsisting, Eternal.",
+      "audio_url": "https://server8.mp3quran.net/afs/002.mp3"
+    },
+    {
+      "title": "3. Surah Ikhlas",
+      "image": "https://i.pinimg.com/564x/5a/8c/ce/5a8cce415d8689539308107779261354.jpg",
+      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "translation": "Say, He is Allah, [who is] One.",
+      "audio_url": "https://server8.mp3quran.net/afs/112.mp3"
+    },
+    {
+      "title": "4. Surah Falaq",
+      "image": "https://i.pinimg.com/564x/d1/1a/0c/d11a0c44158474246012435773663675.jpg",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "translation": "Say, I seek refuge in the Lord of daybreak.",
+      "audio_url": "https://server8.mp3quran.net/afs/113.mp3"
+    },
+    {
+      "title": "5. Surah Nas",
+      "image": "https://i.pinimg.com/564x/e8/56/67/e8566714006093539958066708605f24.jpg",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "translation": "Say, I seek refuge in the Lord of mankind.",
+      "audio_url": "https://server8.mp3quran.net/afs/114.mp3"
+    },
+    {
+      "title": "6. Darood Ibrahim",
+      "image": "https://i.pinimg.com/564x/3d/f2/a1/3df2a160862529802877a5695029e248.jpg",
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+      "translation": "O Allah, let Your Mercy come upon Muhammad and the family of Muhammad.",
+      "audio_url": "https://example.com/audio6.mp3"
+    },
+    {
+      "title": "7. Dua for Parents",
+      "image": "https://i.pinimg.com/564x/2a/11/04/2a1104e1c7f965259928509015949704.jpg",
+      "arabic": "رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+      "translation": "My Lord, have mercy upon them as they brought me up [when I was] small.",
+      "audio_url": "https://example.com/audio7.mp3"
+    },
+    {
+      "title": "8. Dua Before Eating",
+      "image": "https://i.pinimg.com/564x/8a/8d/30/8a8d30e3805b53366367851610e2067d.jpg",
+      "arabic": "بِسْمِ اللَّهِ وَعَلَى بَرَكَةِ اللَّهِ",
+      "translation": "In the name of Allah and with the blessings of Allah.",
+      "audio_url": "https://example.com/audio8.mp3"
+    },
+    {
+      "title": "9. Dua for Traveling",
+      "image": "https://i.pinimg.com/564x/f8/6c/1c/f86c1cf4c4786311689255018659134a.jpg",
+      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا",
+      "translation": "Glory to Him who has subjected this to us.",
+      "audio_url": "https://example.com/audio9.mp3"
+    },
+    {
+      "title": "10. Rabbana Dua",
+      "image": "https://i.pinimg.com/564x/b8/51/82/b8518204642270928929949603206248.jpg",
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً",
+      "translation": "Our Lord, give us in this world [that which is] good.",
+      "audio_url": "https://example.com/audio10.mp3"
+    }
+  ]
+}
