@@ -1,12 +1,27 @@
 [
   {
-    "title": "Surah Al-Mulk (Read)",
-    "image": "https://islamic-image-url.jpg",
+    "title": "🔴 Live Makkah - 24/7",
+    "image": "https://i.ytimg.com/vi/QqaE1C3vLbk/hqdefault.jpg",
+    "video": "https://m.youtube.com/watch?v=QqaE1C3vLbk"
+  },
+  {
+    "title": "📖 Read Surah Al-Mulk (Quran.com)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Quran_Al-Mulk.jpg/640px-Quran_Al-Mulk.jpg",
     "video": "https://quran.com/67"
   },
   {
-    "title": "Bayan: Seerat un Nabi (Watch)",
-    "image": "https://youtube-thumb-url.jpg",
-    "video": "https://m.youtube.com/watch?v=VIDEO_ID"
+    "title": "🎧 Listen: Surah Ar-Rahman (Mishary)",
+    "image": "https://i1.sndcdn.com/artworks-000570385967-8l9203-t500x500.jpg",
+    "video": "https://server8.mp3quran.net/afs/055.mp3"
+  },
+  {
+    "title": "🎥 History of Palestine (Documentary)",
+    "image": "https://i.ytimg.com/vi/HnZSaKYmP2s/hqdefault.jpg",
+    "video": "https://m.youtube.com/watch?v=HnZSaKYmP2s"
+  },
+  {
+    "title": "🤲 Dua for Success (Hisn al-Muslim)",
+    "image": "https://play-lh.googleusercontent.com/Pyy_t1y8p99F1l9_86eZ_XbT8GzQo8S0g7_Lz8C9m_w6y8g8l8y8o8_8y8o8y8o8y8=w512",
+    "video": "https://sunnah.com/hisn"
   }
 ]
